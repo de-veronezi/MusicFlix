@@ -1,0 +1,117 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "tag": "SHOWS",
+      "titulo": "Depeche Mode - Primavera Sound Barcelona 2023",
+      "descricao": "Live at Barcelona, Spain, 2023 ",
+      "imagem": "https://img.youtube.com/vi/_DBBHqln7Po/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/_DBBHqln7Po?si=AvCRPENXWa6MnaEB"
+    },
+    {
+      "id": "2",
+      "tag": "SHOWS",
+      "titulo": "Beach House - Primavera Sound Santiago 2022",
+      "descricao": "Live at Santiago, Chile, 2022",
+      "imagem": "https://img.youtube.com/vi/eKO09meYNgg/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/eKO09meYNgg?si=yELH2u2DZDAYencI"
+    },
+    {
+      "id": "3",
+      "tag": "SHOWS",
+      "titulo": "Interpol - Primavera Sound 2022",
+      "descricao": "Live at Barcelona, Spain, 2022",
+      "imagem": "https://img.youtube.com/vi/8-Ls4X3n9DI/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/8-Ls4X3n9DI?si=Ib919XRCqR4tQqWn"
+    },
+    {
+      "id": "4",
+      "tag": "SHOWS",
+      "titulo": "Kraftwerk - Kemba Live! 2024",
+      "descricao": "Live at Columbus, USA 2024",
+      "imagem": "https://img.youtube.com/vi/pP6yNH6pv3k/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/pP6yNH6pv3k?si=oWp4lrXVPMq9draq"
+    },
+    {
+      "id": "5",
+      "tag": "CLIPES",
+      "titulo": "Interpol - Obstacle 1",
+      "descricao": "Obstacle 1 - Turn On The Bright Lights",
+      "imagem": "https://img.youtube.com/vi/OC5zHACynR4/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/OC5zHACynR4?si=CAEhVxQbvGt72hxn"
+    },
+    {
+      "id": "6",
+      "tag": "CLIPES",
+      "titulo": "Beach House - Lazuli",
+      "descricao": "Lazuli - Bloom",
+      "imagem": "https://img.youtube.com/vi/BfzFVbkutFE/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/BfzFVbkutFE?si=_nng0RBQ8aaPFEjc"
+    },
+    {
+      "id": "7",
+      "tag": "CLIPES",
+      "titulo": "Daft Punk - Around the World",
+      "descricao": "Around the World - Homework",
+      "imagem": "https://img.youtube.com/vi/K0HSD_i2DvA/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/K0HSD_i2DvA?si=MhC8xfDbEDjCOpPa"
+    },
+    {
+      "id": "8",
+      "tag": "CLIPES",
+      "titulo": "Depeche Mode - Ghosts Again",
+      "descricao": "Ghosts Again - Memento Mori",
+      "imagem": "https://img.youtube.com/vi/iIyrLRixMs8/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/iIyrLRixMs8?si=95E2IXFdfwx9p1rt"
+    },
+    {
+      "id": "9",
+      "tag": "ENTREVISTAS",
+      "titulo": "Beach House",
+      "descricao": "KindaMuzikTV",
+      "imagem": "https://img.youtube.com/vi/MTP8JB-agWk/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/MTP8JB-agWk?si=lHeiA_fmTZwYg9dI"
+    },
+    {
+      "id": "10",
+      "tag": "ENTREVISTAS",
+      "titulo": "Depeche Mode",
+      "descricao": "Apple Music",
+      "imagem": "https://img.youtube.com/vi/htTihvktG9g/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/htTihvktG9g?si=UoCtn5z6ClbF5SkQ"
+    },
+    {
+      "id": "11",
+      "tag": "ENTREVISTAS",
+      "titulo": "Pavement",
+      "descricao": "Ranking Pavement Albums (Office Hours)",
+      "imagem": "https://img.youtube.com/vi/d-zqyj5nBO4/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/d-zqyj5nBO4?si=KtZ6GTLTBpKHDJCL"
+    },
+    {
+      "id": "12",
+      "tag": "ENTREVISTAS",
+      "titulo": "Interpol",
+      "descricao": "Firsts - NME",
+      "imagem": "https://img.youtube.com/vi/rOSEepAORW0/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/rOSEepAORW0?si=E1fEMujCHOhKDUfU"
+    }
+  ],
+  "tag": [
+    {
+      "nome": "SHOWS",
+      "cor": "#6C946F",
+      "id": "1000"
+    },
+    {
+      "nome": "CLIPES",
+      "cor": "#B7A930",
+      "id": "2000"
+    },
+    {
+      "nome": "ENTREVISTAS",
+      "cor": "#C24B23",
+      "id": "3000"
+    }
+  ]
+}

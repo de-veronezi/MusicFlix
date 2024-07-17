@@ -1,0 +1,13 @@
+.tag {
+    color: var(--corinput);
+    border-radius: 15px;
+    width: 350px;
+    height: 92px;
+    font-weight: bold;
+    font-size: 48px;
+    text-align: center;
+    align-content: center;
+    text-shadow: 3px 0 var(--cor2), -3px 0 var(--cor2), 0 3px var(--cor2), 0 -3px var(--cor2), 2px 2px var(--cor2), -2px -2px var(--cor2), 2px -2px var(--cor2), -2px 2px var(--cor2);
+    border-style: solid;
+    border-color: var(--cor2);
+}

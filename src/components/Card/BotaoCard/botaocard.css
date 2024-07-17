@@ -1,0 +1,18 @@
+.botao-card {
+    background-color: var(--cor2);
+    border-radius: 0 0 15px 15px;
+    width: 100%;
+    border-style: hidden;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: var(--corinput);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.botao-card:hover {
+    background-color: rgba(7, 3, 14, 0.331);
+    border-radius: 10px;
+}

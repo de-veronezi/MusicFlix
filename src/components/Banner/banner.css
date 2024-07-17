@@ -1,0 +1,59 @@
+.banner {
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    padding: 10% 5%;
+    font-family: 'Roboto', sans-serif;
+    gap: 5%;
+    background-size: cover;
+    background-position: center;
+    border-style: hidden hidden solid hidden;
+    border-color: var(--cor3);
+    border-width: 5px;
+}
+
+.banner-div {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    text-wrap: nowrap;
+}
+
+.tag {
+    background-color: var(--cor1);
+    color: var(--corinput);
+    border-radius: 15px;
+    width: 296px;
+    height: 92px;
+    font-weight: bold;
+    font-size: 48px;
+    text-align: center;
+    align-content: center;
+    box-sizing: border-box;
+}
+
+h2 {
+    font-size: 46px;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    color: var(--corinput);
+    font-weight: 900;
+    text-shadow: 3px 0 var(--cor1), -3px 0 var(--cor1), 0 3px var(--cor1), 0 -3px var(--cor1), 2px 2px var(--cor1), -2px -2px var(--cor1), 2px -2px var(--cor1), -2px 2px var(--cor1);
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    color: var(--corinput);
+    font-weight: 500;
+    text-shadow: 2px 0 var(--cor1), -2px 0 var(--cor1), 0 2px var(--cor1), 0 -2px var(--cor1);
+}
+
+iframe {
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+}

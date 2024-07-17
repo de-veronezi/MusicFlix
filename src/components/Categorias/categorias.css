@@ -1,0 +1,7 @@
+.categorias {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: var(--corfundo);
+    padding: 2% 5%;
+}
